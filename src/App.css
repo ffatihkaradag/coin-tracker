@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@300;400;500;700&display=swap');
+body{
+    padding-top:2rem;
+    font-family: 'Encode Sans SC', sans-serif;
+    background-color: #ddd;
+}
+.br{border:1px solid black}
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.search{
+    margin-bottom:20px;
+    padding:7px;
+    width: 100%;
+    border:1px solid #ddd;
+}
+.coinImage{
+    height:100px;
+}
